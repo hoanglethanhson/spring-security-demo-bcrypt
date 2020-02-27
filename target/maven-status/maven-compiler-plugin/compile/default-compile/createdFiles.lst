@@ -1,0 +1,4 @@
+com\leson\springsecurity\demo\config\SecurityWebApplicationInitializer.class
+com\leson\springsecurity\demo\config\MySpringDispatcherInitializer.class
+com\leson\springsecurity\demo\config\DemoAppConfig.class
+com\leson\springsecurity\demo\controller\DemoController.class
